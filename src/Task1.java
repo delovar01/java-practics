@@ -17,7 +17,3 @@ public class Task1{
         double secret = 8803.41852977086517756;
     }
 }
-
-//import java.util.Locale;
-//import java.util.Scanner;
-//Scanner sc = new Scanner(System.in).useLocale(Locale.US);
